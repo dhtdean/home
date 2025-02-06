@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For latest please check my LinkedIn @ {site.author.linkedin}
+For latest please check my [LinkedIn](https://www.linkedin.com/in/dhtdean/)
 
 
 Education
