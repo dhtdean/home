@@ -13,7 +13,7 @@ title                    : "Dean Deng"
 title_separator          : "-"
 name                     : &name "Dean Deng"
 description              : &description "personal page"
-URL                      : "https://dhtdean.github.io/home/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : https://dhtdean.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://dhtdean.github.io/home/"
 
