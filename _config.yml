@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io" # TODO: keep 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_self.png"
   name             : "Dean Deng"
   pronouns         : # example: "she/her"  
-  bio              : "To be updated"
+  bio              : "Science & Engineering by training, Business by trade, opinions are my own"
   location         : "Belmont"
   employer         : # "Red Brick University"
   uri              : # URL
