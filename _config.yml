@@ -22,7 +22,7 @@ repository               : "https://dhtdean.github.io/home/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Dean Deng"
   pronouns         : # example: "she/her"  
   bio              : "To be updated"
