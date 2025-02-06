@@ -13,7 +13,7 @@ title                    : "Dean Deng"
 title_separator          : "-"
 name                     : &name "Dean Deng"
 description              : &description "personal page"
-URL                      : https://dhtdean.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://dhtdean.github.io/home/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://dhtdean.github.io/home/"
 
@@ -22,7 +22,7 @@ repository               : "https://dhtdean.github.io/home/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Dean Deng"
   pronouns         : # example: "she/her"  
   bio              : "To be updated"
