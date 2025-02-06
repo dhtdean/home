@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Dean Deng"
 description              : &description "personal page"
 URL                      : https://dhtdean.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io" # TODO: keep this line unchanged for now
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_self.png"
   name             : "Dean Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Science & Engineering by training, Business by trade, opinions are my own"
+  bio              : "Science & Engineering by training, Business by trade, opinions are my own."
   location         : "Belmont"
   employer         : # "Red Brick University"
   uri              : # URL
