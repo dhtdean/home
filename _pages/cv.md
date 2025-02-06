@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+For latest please check my LinkedIn @ {site.author.linkedin}
+
 
 Education
 ======
@@ -17,14 +19,9 @@ Education
 
 Work experience
 ======
-* 2024/10 - Present: AGI strategy expert
-  * ByteDance
-
-* 2022/01 - 2024/09: Associate
-  * McKinsey
-
-* 2016/09 - 2022/01: Research Assistant
-  * Stanford University
+* 2024/10 - Present: AGI strategy expert @ ByteDance
+* 2022/01 - 2024/09: Associate @ McKinsey
+* 2016/09 - 2022/01: Research Assistant @ Stanford University
 
   
 Skills
