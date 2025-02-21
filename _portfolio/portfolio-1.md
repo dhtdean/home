@@ -1,6 +1,6 @@
 ---
 title: "Smooth Operator"
-excerpt: "AI voice agent for helping you find movers <br/><img src='/images/SmoothOperator.png'>"
+excerpt: "AI voice agent for helping you find movers <br/>"
 collection: Projects
 ---
 
