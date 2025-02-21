@@ -1,6 +1,6 @@
 ---
 title: "Smooth Operator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "AI voice agent for moving <br/><img src='/images/SmoothOperator.png'>"
 collection: Projects
 ---
 
