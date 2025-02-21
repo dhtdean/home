@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
+title: "Smooth Operator"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: Projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Winner of [2024 Berkeley LLM agent hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/) in the application track, with ~3k participants. Our team built an AI voice agent for vendor diligence and price negotiation, particularly focused on finding movers. Check out our website for more [details](https://eyecognito.netlify.app/llm-agents-hackathon)
