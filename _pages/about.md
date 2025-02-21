@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website - it's currently under construction. More details to be updated soon!
+Welcome to my personal website!
 
 About me:
 I'm a researcher by training, and tech strategy consultant by trade. I'm passionate about accelerating scientific/engineering R&D, and currently exploring various opportunities around the space.
