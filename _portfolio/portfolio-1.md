@@ -1,6 +1,6 @@
 ---
 title: "Smooth Operator"
-excerpt: "AI voice agent for helping you find movers <br/>"
+excerpt: "AI voice agent for helping you find movers. Winner of 2024 Berkeley LLM agent hackathon. <br/>"
 collection: Projects
 ---
 
